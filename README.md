@@ -7,6 +7,6 @@
 # 
  user3 - Raúl Moya Barez
 # 
- user4 - Javier García Martín
+ jgarciamartin - Javier García Martín
 # 
  user5 - Roberto Torralba Romero
