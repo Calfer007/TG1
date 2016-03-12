@@ -3,7 +3,7 @@
 # Creación de extensiones (plugins) para navegadores web
  Calfer007 - Fernando Calderón Alayo
 #   
- user2 - David López Llana
+ DavidLopezLlana - David López Llana
 # 
  RaulUle - Raúl Moya Barez
 # 
